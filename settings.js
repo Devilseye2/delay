@@ -10,7 +10,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "254718382875"
+global.ownernomer = "24113419479"
 global.ownername = "🦊Manos🦊"
 global.ytname = "YT: Manos "
 global.socialm = "GitHub: Robystis"
@@ -22,14 +22,14 @@ global.botname = '🦊manos🦊 ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'bugged By'
-global.author = '🦊Manos\n\nContact: +254718382875'
+global.author = '🦊Manos\n\n\n\n\nContact: +254718382875'
 
 //console view/theme
 global.themeemoji = '🦊'
 global.wm = "Manos Bot Inc."
 
 //theme link
-global.link = 'none'
+global.link = 'https://chat.whatsapp.com/FvBG5ekRL303LzzhzCde4k'
 
 //custom prefix
 global.prefa = [',']
